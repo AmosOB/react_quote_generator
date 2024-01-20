@@ -1,6 +1,6 @@
 # Creating a class_based components quote_generator application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was styled by bootstrap and uses Axios to fetch the api Quotes.
 
 ## Available Scripts
 
