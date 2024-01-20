@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Creating a class_based components quote_generator application
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
